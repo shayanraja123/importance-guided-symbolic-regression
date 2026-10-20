@@ -1,0 +1,11 @@
+# Versions used for the thesis experiments (Python 3.12.9)
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.2.2
+gplearn==0.4.2
+xgboost==2.1.1
+joblib==1.5.3
+pyarrow==22.0.0
+matplotlib
+psutil
+jupyterlab
