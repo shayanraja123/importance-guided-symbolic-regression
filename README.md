@@ -1,6 +1,6 @@
 # Importance-Guided Stochastic Symbolic Regression for Scalable Feature Engineering
 
-**M.S. Thesis, Arizona State University (May 2026)** · Raja Muhammad Shayan
+**M.S. Thesis, Arizona State University (May 2026)** · Raja Muhammad Shayan<br>
 Committee: Yanjie Fu (Chair), Hua Wei, Jin Wang · [Published on ProQuest](https://www.proquest.com/docview/3335804853)
 
 This repository contains the research code, notebooks, processed datasets, and experiment results for my master's thesis. The thesis proposes **IGS-SR (Importance-Guided Stochastic Cluster Sampling Symbolic Regression)**, a way to use symbolic regression as an automated, interpretable feature-engineering step that costs far less compute than training one symbolic model per feature cluster.
