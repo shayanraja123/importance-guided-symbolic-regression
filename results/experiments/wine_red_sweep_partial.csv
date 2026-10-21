@@ -1,0 +1,81 @@
+run,seed,subset_idx,tr_rmse,te_rmse,expr,degenerate,sr_tr_std
+1,43,"[3, 5, 1]",0.7482156361433755,0.7395681198476501,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=43)",False,0.3639015723515486
+2,44,"[3, 5, 10]",0.7396577045849535,0.7389054673910046,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=44)",False,0.48194031547213423
+3,45,"[3, 6, 10]",0.7382141378243714,0.7429910050384642,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=45)",False,0.4142080528732699
+4,46,"[3, 5, 9]",0.746939535195838,0.7887233435240859,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=46)",False,0.39908513545109836
+5,47,"[3, 6, 10]",0.7389148348503558,0.7319779943949735,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=47)",False,0.4576132204748663
+6,48,"[3, 6, 10]",0.731912593567183,0.7323888481950717,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=48)",False,0.40930391221047024
+7,49,"[3, 6, 10]",0.725237835754315,0.7289780506751726,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=49)",False,0.5037177680180511
+8,50,"[3, 6, 10]",0.735731068619153,0.7390205045433317,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=50)",False,0.41362162889840304
+9,51,"[3, 5, 9]",0.7412068167555098,0.7659781823464653,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=51)",False,0.36013621686196123
+10,52,"[3, 6, 10]",0.7382920914377127,0.7308461724678229,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=52)",False,0.4579043746185068
+11,53,"[3, 6, 9]",0.7423491387108527,0.7559985313728007,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=53)",False,0.3599625215356585
+12,54,"[3, 6, 2]",0.8716539337224504,0.8522900428521838,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=54)",True,8.881784197001252e-16
+13,55,"[3, 6, 9]",0.7478020057089134,0.7562330785128953,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=55)",False,0.38402834382049367
+14,56,"[3, 5, 10]",0.740922402679245,0.7468838667405294,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=56)",False,0.4148395516455096
+15,57,"[3, 6, 10]",0.7454859137371288,0.7521579432153279,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=57)",False,0.4530449975531011
+16,58,"[3, 6, 9]",0.7447818850706885,0.78303801501465,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=58)",False,0.3870420480285005
+17,59,"[3, 6, 4]",0.8323479232793578,0.8307183550752931,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=59)",False,0.3715036621150646
+18,60,"[3, 5, 1]",0.7816530064383668,0.7689551576102749,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=60)",False,0.40887685213930874
+19,61,"[3, 6, 10]",0.7244869622932478,0.7286063290325593,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=61)",False,0.4916584686623657
+20,62,"[3, 6, 10]",0.7337003542267013,0.7230013077273602,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=62)",False,0.4425391458041914
+21,63,"[3, 6, 9]",0.7416913122161908,0.7671322855582287,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=63)",False,0.36930548927011264
+22,64,"[3, 6, 1]",0.7460052101402307,0.7356793651086342,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=64)",False,0.368136869373691
+23,65,"[3, 6, 10]",0.7517497774917692,0.756455689382589,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=65)",False,0.4235998870435773
+24,66,"[3, 6, 1]",0.8836568976475508,0.8624284302778313,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=66)",True,0.0
+25,67,"[3, 5, 10]",0.7410042096393564,0.7397052539660707,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=67)",False,0.4309332600017865
+26,68,"[3, 6, 10]",0.8723833850270083,0.8529000214797079,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=68)",True,8.881784197001252e-16
+27,69,"[3, 6, 10]",0.7341529228755256,0.7450043241518328,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=69)",False,0.3954622760351297
+28,70,"[3, 6, 9]",0.740539217497012,0.7645726178236013,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=70)",False,0.3906386576629854
+29,71,"[3, 6, 10]",0.7424242177426411,0.7533270434688701,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=71)",False,0.3953437246061463
+30,72,"[3, 5, 9]",0.7417184927524781,0.7613238066149255,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=72)",False,0.3578920266602724
+31,73,"[3, 5, 9]",0.7620502660083329,0.7932497660915031,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=73)",False,0.387187923980046
+32,74,"[3, 6, 10]",0.84103133133659,0.8636882320882507,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=74)",False,0.17153987765984705
+33,75,"[3, 5, 10]",0.7368822298366497,0.7423899825585689,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=75)",False,0.41295051178195175
+34,76,"[3, 6, 10]",0.7430817464808315,0.7457354303821229,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=76)",False,0.45770132046864703
+35,77,"[3, 6, 9]",0.7611564489142673,0.7920811176428063,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=77)",False,0.387187923980046
+36,78,"[3, 6, 10]",0.7237945461791382,0.7175374054735821,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=78)",False,0.48338133758242485
+37,79,"[3, 5, 10]",0.7224789718156566,0.7258627839424193,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=79)",False,0.4843727301846519
+38,80,"[3, 5, 1]",0.7519115294683518,0.732217438600854,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=80)",False,0.38327862739218355
+39,81,"[3, 5, 10]",0.7437439301873707,0.7539412271002417,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=81)",False,0.5714170709537937
+40,82,"[3, 6, 9]",0.7409313403211122,0.7668720675579878,"SymbolicRegressor(function_set=['add', 'sub', 'mul', 'div', 'sin', 'cos'],
+                  generations=100, population_size=1500, random_state=82)",False,0.3580056998594043
