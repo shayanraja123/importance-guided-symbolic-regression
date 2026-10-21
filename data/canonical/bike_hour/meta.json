@@ -1,0 +1,19 @@
+{
+  "n_samples_train": 13903,
+  "n_samples_test": 3476,
+  "n_features": 12,
+  "feature_names": [
+    "season",
+    "yr",
+    "mnth",
+    "hr",
+    "holiday",
+    "weekday",
+    "workingday",
+    "weathersit",
+    "temp",
+    "atemp",
+    "hum",
+    "windspeed"
+  ]
+}

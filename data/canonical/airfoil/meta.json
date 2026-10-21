@@ -1,0 +1,12 @@
+{
+  "n_samples_train": 1202,
+  "n_samples_test": 301,
+  "n_features": 5,
+  "feature_names": [
+    "Frequency",
+    "Angle",
+    "Chord",
+    "Velocity",
+    "Thickness"
+  ]
+}

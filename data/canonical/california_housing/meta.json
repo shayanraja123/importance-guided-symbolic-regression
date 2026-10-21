@@ -1,0 +1,15 @@
+{
+  "n_samples_train": 16512,
+  "n_samples_test": 4128,
+  "n_features": 8,
+  "feature_names": [
+    "MedInc",
+    "HouseAge",
+    "AveRooms",
+    "AveBedrms",
+    "Population",
+    "AveOccup",
+    "Latitude",
+    "Longitude"
+  ]
+}

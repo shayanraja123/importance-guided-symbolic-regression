@@ -1,0 +1,20 @@
+{
+  "n_samples_train": 404,
+  "n_samples_test": 102,
+  "n_features": 13,
+  "feature_names": [
+    "crim",
+    "zn",
+    "indus",
+    "chas",
+    "nox",
+    "rm",
+    "age",
+    "dis",
+    "rad",
+    "tax",
+    "ptratio",
+    "black",
+    "lstat"
+  ]
+}
