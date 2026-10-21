@@ -1,0 +1,12 @@
+# Files the notebooks generate when re-run
+artifacts/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
